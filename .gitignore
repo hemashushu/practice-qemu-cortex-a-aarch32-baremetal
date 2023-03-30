@@ -1,0 +1,10 @@
+*.o
+*.elf
+*.bin
+*.hex
+
+.vscode/.cortex-debug.peripherals.state.json
+.vscode/.cortex-debug.registers.state.json
+
+hardware/DDI0183G_uart_pl011_r1p5_trm.pdf
+hardware/DUI0448I_v2p_ca9_trm.pdf
